@@ -4,5 +4,5 @@ number=int(input('how old ar you?'))
 
 age=12
 
-print('your namber multipled by 2 is  '+ int(number) *int( 2 ))
+print("your namber multipled by 2 is  "+ str(number) *int( 2 ))
 
