@@ -1,0 +1,21 @@
+#ისწავლეთ ახალი სიტყვები:
+
+#solve problem - პროგრამის მოგვარება
+#control flow - დინების მართვა
+#techniques - ტექნიკები
+#sequence - თანმიმდევრობა
+#iteration - გამეორება
+#selection - შერჩევა
+#order - თანმდიმდევრობა
+#top - ზემოთ
+#bottom - ქვემოთ
+#repeat - გამეორება
+#algorithm - ნაბიჯ-ნაბიჯ ინსტრუქციები
+#follow path - გზას გაყოლა
+#notify - შეტყობინება
+#range - დიაპაზონი
+#represent - წარმოდგენა
+#flowchart - დიაგრამა
+#pseudocode - ფსევდოკოდი
+#natural language - ბუნებრივი გზა
+#different ways - სხვადასხვანაირად
