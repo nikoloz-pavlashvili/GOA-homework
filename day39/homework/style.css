@@ -1,0 +1,12 @@
+h1 {
+    color: blue; 
+    text-align: center;
+}
+
+/* ყველა p პარაგრაფი */
+p {
+    background-color: white; 
+    padding: 10px;
+    font-family: Arial, sans-serif; 
+    line-height: 1.5; 
+}
